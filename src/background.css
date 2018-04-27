@@ -1,0 +1,24 @@
+
+.editor-one>.container>.editor-container>.monaco-editor>.overflow-guard>.monaco-scrollable-element:nth-child(2){
+    background: url('images/bg2.png') no-repeat center center fixed;
+    /* -webkit-background-size: cover; */
+    /* -moz-background-size: cover; */
+    /* -o-background-size: cover; */
+    opacity: .9;
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+}
+
+.editor-two>.container>.editor-container>.monaco-editor>.overflow-guard>.monaco-scrollable-element:nth-child(2){
+    /* background-image: url('https://i.pinimg.com/originals/e0/14/b5/e014b5aa86e8f7e45b061fe338b23a68.jpg'); */
+    background-repeat: no-repeat;
+}
+
+.editor-three>.container>.editor-container>.monaco-editor>.overflow-guard>.monaco-scrollable-element:nth-child(2){
+    /* background-image: url('https://i.pinimg.com/originals/e0/14/b5/e014b5aa86e8f7e45b061fe338b23a68.jpg'); */
+    background-repeat: no-repeat;
+}
+
+[id='workbench.parts.editor']>.content>.one-editor-silo .monaco-editor>.overflow-guard>.monaco-scrollable-element>.monaco-editor-background {
+    background: none;
+}
