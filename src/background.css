@@ -1,11 +1,3 @@
-
-.editor-one>.container>.editor-container>.monaco-editor>.overflow-guard>.monaco-scrollable-element:nth-child(2){
-    /* background: url('images/bg2.png') no-repeat center center fixed; */
-    background: url('images/bg1.jpg') no-repeat center center fixed;
-    opacity: .9;
-    background-size: cover;
-}
-
 .editor-two>.container>.editor-container>.monaco-editor>.overflow-guard>.monaco-scrollable-element:nth-child(2){
     background-repeat: no-repeat;
 }
@@ -18,75 +10,31 @@
     background: none;
 }
 
-.margin-view-overlays {
-    background: url('images/bg1.jpg') no-repeat center center fixed;
-    opacity: .9;
-    background-size: cover;
-    background-color: transparent;
-}
-
-/* .margin{
-    background: url('images/bg1.jpg') no-repeat center center fixed;
-    opacity: .9;
-    background-color: transparent;
-    background-size: cover;
-} */
-
-.part.titlebar {
+.editor-one>.container>.editor-container>.monaco-editor>.overflow-guard>.monaco-scrollable-element:nth-child(2){
     background: url('images/bg1.jpg') no-repeat center center fixed;
     opacity: .9;
     background-size: cover;
 }
 
-.composite.title {
+.margin-view-overlays,
+.part.titlebar,
+.composite.title,
+.split-view-view,
+.title.tabs.show-file-icons.active,
+.tab.close-button-right.sizing-fit.has-icon-theme,
+.tab.close-button-right.sizing-fit.has-icon-theme.active,
+.part.statusbar,
+.monaco-tree-rows,
+.monaco-workbench>.activitybar>.content ,
+.wrapper > .input,
+.search-widgets-container,
+.monaco-tree-rows.show-twisties,
+.decorationsOverviewRuler,
+.original.diffOverviewRuler,
+.modified.diffOverviewRuler,
+.header,
+.search-box {
     background: url('images/bg1.jpg') no-repeat center center fixed;
     opacity: .9;
     background-size: cover;
 }
-
-
-.split-view-view {
-    background: url('images/bg1.jpg') no-repeat center center fixed;
-    background-size: cover;
-}
-
-.title.tabs.show-file-icons.active {
-    background: url('images/bg1.jpg') no-repeat center center fixed;
-    opacity: .9;
-    background-size: cover;
-}
-
-.tab.close-button-right.sizing-fit.has-icon-theme {
-    background: url('images/bg1.jpg') no-repeat center center fixed;
-    opacity: .9;
-    background-size: cover;
-}
-
-.tab.close-button-right.sizing-fit.has-icon-theme.active{
-    background: url('images/bg1.jpg') no-repeat center center fixed;
-    opacity: .9;
-    background-size: cover;
-}
-
-.part.statusbar {
-    background: url('images/bg1.jpg') no-repeat center center fixed;
-    opacity: .9;
-    background-size: cover;
-}
-
-.monaco-tree-rows {
-    background: url('images/bg1.jpg') no-repeat center center fixed;
-    opacity: .9;
-    background-size: cover;
-}
-
-.monaco-workbench>.activitybar>.content {
-    background: url('images/bg1.jpg') no-repeat center center fixed;
-    opacity: .9;
-    background-size: cover;
-}
-
-.decorationsOverviewRuler {
-    background: url('images/bg1.jpg') no-repeat center center fixed;
-    background-size: cover;
- }
