@@ -17,3 +17,76 @@
 [id='workbench.parts.editor']>.content>.one-editor-silo .monaco-editor>.overflow-guard>.monaco-scrollable-element>.monaco-editor-background {
     background: none;
 }
+
+.margin-view-overlays {
+    background: url('images/bg1.jpg') no-repeat center center fixed;
+    opacity: .9;
+    background-size: cover;
+    background-color: transparent;
+}
+
+/* .margin{
+    background: url('images/bg1.jpg') no-repeat center center fixed;
+    opacity: .9;
+    background-color: transparent;
+    background-size: cover;
+} */
+
+.part.titlebar {
+    background: url('images/bg1.jpg') no-repeat center center fixed;
+    opacity: .9;
+    background-size: cover;
+}
+
+.composite.title {
+    background: url('images/bg1.jpg') no-repeat center center fixed;
+    opacity: .9;
+    background-size: cover;
+}
+
+
+.split-view-view {
+    background: url('images/bg1.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.title.tabs.show-file-icons.active {
+    background: url('images/bg1.jpg') no-repeat center center fixed;
+    opacity: .9;
+    background-size: cover;
+}
+
+.tab.close-button-right.sizing-fit.has-icon-theme {
+    background: url('images/bg1.jpg') no-repeat center center fixed;
+    opacity: .9;
+    background-size: cover;
+}
+
+.tab.close-button-right.sizing-fit.has-icon-theme.active{
+    background: url('images/bg1.jpg') no-repeat center center fixed;
+    opacity: .9;
+    background-size: cover;
+}
+
+.part.statusbar {
+    background: url('images/bg1.jpg') no-repeat center center fixed;
+    opacity: .9;
+    background-size: cover;
+}
+
+.monaco-tree-rows {
+    background: url('images/bg1.jpg') no-repeat center center fixed;
+    opacity: .9;
+    background-size: cover;
+}
+
+.monaco-workbench>.activitybar>.content {
+    background: url('images/bg1.jpg') no-repeat center center fixed;
+    opacity: .9;
+    background-size: cover;
+}
+
+.decorationsOverviewRuler {
+    background: url('images/bg1.jpg') no-repeat center center fixed;
+    background-size: cover;
+ }
