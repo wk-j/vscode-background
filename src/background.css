@@ -1,6 +1,7 @@
 
 .editor-one>.container>.editor-container>.monaco-editor>.overflow-guard>.monaco-scrollable-element:nth-child(2){
-    background: url('images/bg2.png') no-repeat center center fixed;
+    /* background: url('images/bg2.png') no-repeat center center fixed; */
+    background: url('images/bg1.jpg') no-repeat center center fixed;
     /* -webkit-background-size: cover; */
     /* -moz-background-size: cover; */
     /* -o-background-size: cover; */
