@@ -26,8 +26,9 @@
 .lines-content.monaco-editor-background,
 .markers-panel-container, /* no problem window */
 .preferences-header,
+/* .content.vertical-layout, */
 .search-box {
-    background: url('images/bg1.jpg') no-repeat center center fixed;
+    background: url('compose/cm1.jpg') no-repeat center center fixed;
     /* opacity: .9; */
     background-size: cover;
 }
