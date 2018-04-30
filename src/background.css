@@ -1,4 +1,3 @@
-
 [id='workbench.parts.editor']>.content>.one-editor-silo .monaco-editor>.overflow-guard>.monaco-scrollable-element>.monaco-editor-background {
     background: none;
 }
@@ -23,8 +22,18 @@
 .original.diffOverviewRuler,
 .modified.diffOverviewRuler,
 .header,
+.monaco-scrollable-element.editor-scrollable.vs-dark.mac,
+.lines-content.monaco-editor-background,
+.markers-panel-container, /* no problem window */
+.preferences-header,
 .search-box {
     background: url('images/bg1.jpg') no-repeat center center fixed;
-    opacity: .9;
+    /* opacity: .9; */
+    background-size: cover;
+}
+
+.terminal.xterm {
+    background: url('images/bg1.jpg') no-repeat center center fixed;
+    /* opacity: .9; */
     background-size: cover;
 }
