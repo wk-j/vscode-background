@@ -23,19 +23,24 @@
 .modified.diffOverviewRuler,
 .header,
 .monaco-scrollable-element.editor-scrollable.vs-dark.mac,
-.lines-content.monaco-editor-background,
-.markers-panel-container, /* no problem window */
+/* .lines-content.monaco-editor-background, */
+/* no problem window */
+.markers-panel-container,
 .preferences-header,
 /* .content.vertical-layout, */
 .search-box {
-    /* background: url('compose/cm1.jpg') no-repeat center center fixed; */
     background: url('compose/cm1.jpg') no-repeat center center fixed;
     /* opacity: .9; */
+    /* background-color:transparent; */
+    /* background: transparent; */
     background-size: cover;
 }
 
 .terminal.xterm {
     background: url('images/bg1.jpg') no-repeat center center fixed;
-    /* opacity: .9; */
     background-size: cover;
+}
+
+.lines-content.monaco-editor-background {
+    background: transparent;
 }
